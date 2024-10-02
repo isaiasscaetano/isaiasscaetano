@@ -20,3 +20,10 @@
 <img aling ="center" alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 A tecnologia é como uma janela para o futuro, onde a curiosidade se transforma em inovação, e cada avanço me encanta mais, mostrando o quanto ela molda e melhora nossas vidas diariamente.
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
