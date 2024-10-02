@@ -3,8 +3,8 @@
 [![Blog]( https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://isaiasscaetano.github.io/site-isaias.C/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@silvaisaias-ky5ho)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-
 ![Isaias GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiasscaetano&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasscaetano&show&langs_true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia de estudo
 
@@ -17,7 +17,4 @@
 <img aling ="center" alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img aling ="center" alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasscaetano&show&langs_count=8)
-
 A tecnologia é como uma janela para o futuro, onde a curiosidade se transforma em inovação, e cada avanço me encanta mais, mostrando o quanto ela molda e melhora nossas vidas diariamente.
