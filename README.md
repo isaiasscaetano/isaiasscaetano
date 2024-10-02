@@ -17,3 +17,7 @@
 <img aling ="center" alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img aling ="center" alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasscaetano&show&langs_count=8)
+
+A tecnologia é como uma janela para o futuro, onde a curiosidade se transforma em inovação, e cada avanço me encanta mais, mostrando o quanto ela molda e melhora nossas vidas diariamente.
