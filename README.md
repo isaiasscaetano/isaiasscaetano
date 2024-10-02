@@ -22,8 +22,4 @@
 A tecnologia é como uma janela para o futuro, onde a curiosidade se transforma em inovação, e cada avanço me encanta mais, mostrando o quanto ela molda e melhora nossas vidas diariamente.
 
 
-<div align="center">
 
-  ![Snake animation](https://github.com/isaiasscaetano/isaiasscaetano/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
