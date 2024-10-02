@@ -1,18 +1,8 @@
-
-name: generate animation
-
-on:
-  # run automatically every 24 hours
-  schedule:- master Ola! eu sou o isaias caetano da silva 🧑🏽‍💻
-
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
     
 [![Blog]( https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://isaiasscaetano.github.io/site-isaias.C/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@silvaisaias-ky5ho)
