@@ -24,6 +24,6 @@ A tecnologia é como uma janela para o futuro, onde a curiosidade se transforma 
 
 <div align="center">
 
-  ![Snake animation](https://github.com/isaiasscaetano/isaiasscaetano/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/isaiasscaetano/isaiasscaetano/isaiasscaetano/blob/output/github-contribution-grid-snake.svg)
   
 </div>
