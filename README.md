@@ -1,5 +1,19 @@
-### Ola! eu sou o isaias caetano da silva 🧑🏽‍💻
 
+name: generate animation
+
+on:
+  # run automatically every 24 hours
+  schedule:- master Ola! eu sou o isaias caetano da silva 🧑🏽‍💻
+
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    
 [![Blog]( https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://isaiasscaetano.github.io/site-isaias.C/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@silvaisaias-ky5ho)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
