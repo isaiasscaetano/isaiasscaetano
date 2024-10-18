@@ -20,8 +20,6 @@
 <img aling ="center" alt="kotlin" src ="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img aling ="center" alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img aling ="center" alt="mysql" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img aling ="center" alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img aling ="center" alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 A tecnologia é como uma janela para o futuro, onde a curiosidade se transforma em inovação, e cada avanço me encanta mais, mostrando o quanto ela molda e melhora nossas vidas diariamente.
 
