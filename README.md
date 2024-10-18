@@ -19,7 +19,6 @@
 <img aling ="center" alt="css" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img aling ="center" alt="kotlin" src ="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img aling ="center" alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img aling ="center" alt="mysql" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 A tecnologia é como uma janela para o futuro, onde a curiosidade se transforma em inovação, e cada avanço me encanta mais, mostrando o quanto ela molda e melhora nossas vidas diariamente.
 
